@@ -1,0 +1,6 @@
+# .gitignore - Adicione estas linhas
+*.hht
+*.log
+*.cache
+hts-log.txt
+hts-cache/
